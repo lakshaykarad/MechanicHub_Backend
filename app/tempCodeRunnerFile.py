@@ -1,0 +1,1 @@
+print(get_setting().database_url)
